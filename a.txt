@@ -1,3 +1,4 @@
+release
 sua2
 sua1
 demo
